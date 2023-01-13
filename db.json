@@ -1,0 +1,42 @@
+{
+  "0":{
+    "id":"4",
+    "name":"ABC news",
+    "description":"News and current affairs",
+    "live_url":"https://abcnews.go.com/live/video/special-live-11",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvDLuhM3P8UyGks8kclNx5ZV0KcT2RZmlWA&usqp=CAU",
+    "facebook":"wwww.facebook.com",
+    "twitter":"www.twitter.com",
+    "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
+    "website":"https://abcnews.go.com/",
+    "category":"News"  
+    
+  },
+
+  "1":{
+    "id":"5",
+    "name":"ABC news",
+    "description":"News and current affairs",
+    "live_url":"https://abcnews.go.com/live/video/special-live-11",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvDLuhM3P8UyGks8kclNx5ZV0KcT2RZmlWA&usqp=CAU",
+    "facebook":"wwww.facebook.com",
+    "twitter":"www.twitter.com",
+    "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
+    "website":"https://abcnews.go.com/",
+    "category":"News"  
+  },
+
+  "2":{
+    "id":"6",
+    "name":"ABC news",
+    "description":"News and current affairs",
+    "live_url":"https://abcnews.go.com/live/video/special-live-11",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvDLuhM3P8UyGks8kclNx5ZV0KcT2RZmlWA&usqp=CAU",
+    "facebook":"wwww.facebook.com",
+    "twitter":"www.twitter.com",
+    "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
+    "website":"https://abcnews.go.com/",
+    "category":"News"  
+  }
+
+}
