@@ -28,15 +28,16 @@
 
   "2":{
     "id":"6",
-    "name":"ABC news",
+    "name":"Free 24/7 Billiard Channel",
     "description":"News and current affairs",
-    "live_url":"https://abcnews.go.com/live/video/special-live-11",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674196707/ei/g-LJY4DPJ9myvdIPrrW-gA4/ip/160.152.56.123/id/0rUKGkVpIBE.1/source/yt_live_broadcast/requiressl/yes/tx/24435509/txs/24435507%2C24435508%2C24435509/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOhifMtkWsYFCxtTB9vW5mtdwUMKsBEoTUeQ4jOoRS8eAiEAzjj5FNU9kXCXqX94iEbNcyKhMaUfuVSSSbYt_DCntn4%3D/file/index.m3u8
+",
     "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvDLuhM3P8UyGks8kclNx5ZV0KcT2RZmlWA&usqp=CAU",
     "facebook":"wwww.facebook.com",
     "twitter":"www.twitter.com",
     "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
     "website":"https://abcnews.go.com/",
-    "category":"News"  
+    "category":"Sports"  
   }
 
 }
