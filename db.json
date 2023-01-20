@@ -17,8 +17,8 @@
     "id":"2",
     "name":"Channels news",
     "description":"Nigerian News",
-    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674153020/ei/3DfJY-qmD4ab1waVqr_YCw/ip/160.152.133.196/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/tx/24438930/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNFaVoFN_lUE2f7v8gGbH7ix2v3yrKQ23Y9q5z3mZTDsCIGVoEaHHBWyTSq_bXXLf_bfr7dO4RXrGlba4mKBVQz4x/file/index.m3u8",
-    "thumbnail":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguardian.ng%2Fwp-content%2Fuploads%2F2018%2F12%2FChannels-TV.jpg&imgrefurl=https%3A%2F%2Fguardian.ng%2Fnews%2Fnigerian-government-suspends-channels-tvs-politics-today%2F&tbnid=A3fsOLSOoC767M&vet=12ahUKEwj53fTn-dX8AhVsnycCHe2iDLsQMygEegUIARDkAQ..i&docid=b-rRXkQv3OcnfM&w=1280&h=720&q=channels%20news&ved=2ahUKEwj53fTn-dX8AhVsnycCHe2iDLsQMygEegUIARDkAQ",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674243489/ei/QZnKY8isMoiJvdIP-5OvsAY/ip/169.159.110.15/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJnm8fX62zfsCtSHQFQMVRKQ8h4ZZdH3O4n2jJ7VjF_8CIQDBM27ZvqbyP4jUehbPbi-AXo55WGC-vqC0EmWGPbtlfw%3D%3D/file/index.m3u8",
+    "thumbnail":"https://guardian.ng/wp-content/uploads/2018/12/Channels-TV.jpg",
     "facebook":"wwww.facebook.com/channelstv/",
     "twitter":"www.twitter.com/channelstv/",
     "youtube":"https://www.youtube.com/user/channelsweb",
@@ -27,6 +27,8 @@
   }
   
 }
+
+  
 
   
 
