@@ -1,4 +1,5 @@
- "0":{
+{
+"0":{
     "id":"1",
     "name":"CBS news",
     "description":"News and current affairs",
@@ -50,4 +51,6 @@
     "website":"https://google.com/",
     "category":"Sports"  
   }
+
+}
 
