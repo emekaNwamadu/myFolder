@@ -1,14 +1,14 @@
-{
+{ 
 "0":{
     "id":"1",
     "name":"CBS news",
-    "description":"foreign News and current affairs",
-    "live_url":"https://tps://manifest.googlevideo.com/api/manifest/dash/expire/1674239471/ei/j4nKY72SJczCWszqgfgM/ip/160.152.56.123/id/dPLMBUyLdiQ.1/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/gcr/ng/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cas%2Cgcr%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIGBXRZup013R-foD6C1VZ190LXo4yFMMLExTJMQo_jzAiEAkJuQRbreqURLvWu4-K8bm6zjbU2exWOsjL8HOzaHW9c%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674239471/ei/j4nKY72SJczCWszqgfgM/ip/160.152.56.123/id/dPLMBUyLdiQ.1/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ng/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL803wQ6s3idU1CEGp9ydui5Ul0MY2Xo2AFBSLQzjtlwAiBZNxwJGFZcfxojAbx9FbwnJK36fwYWmZOnWWWrK-d13g%3D%3D/file/index.m3u8",
-    "thumbnail":"data:image/png;base64,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",
+    "description":"News and current affairs",
+    "live_url":"https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvDLuhM3P8UyGks8kclNx5ZV0KcT2RZmlWA&usqp=CAU",
     "facebook":"wwww.facebook.com",
     "twitter":"www.twitter.com",
-    "youtube":"https://www.youtube.com/watch?v=dPLMBUyLdiQ",
-    "website":"https://cbsnews.com/",
+    "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
+    "website":"https://abcnews.go.com/",
     "category":"News"  
     
   },
@@ -17,20 +17,39 @@
     "id":"2",
     "name":"Channels news",
     "description":"Nigerian News",
-    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674243489/ei/QZnKY8isMoiJvdIP-5OvsAY/ip/169.159.110.15/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJnm8fX62zfsCtSHQFQMVRKQ8h4ZZdH3O4n2jJ7VjF_8CIQDBM27ZvqbyP4jUehbPbi-AXo55WGC-vqC0EmWGPbtlfw%3D%3D/file/index.m3u8",
-    "thumbnail":"https://guardian.ng/wp-content/uploads/2018/12/Channels-TV.jpg",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674153020/ei/3DfJY-qmD4ab1waVqr_YCw/ip/160.152.133.196/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/tx/24438930/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNFaVoFN_lUE2f7v8gGbH7ix2v3yrKQ23Y9q5z3mZTDsCIGVoEaHHBWyTSq_bXXLf_bfr7dO4RXrGlba4mKBVQz4x/file/index.m3u8",
+    "thumbnail":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fguardian.ng%2Fwp-content%2Fuploads%2F2018%2F12%2FChannels-TV.jpg&imgrefurl=https%3A%2F%2Fguardian.ng%2Fnews%2Fnigerian-government-suspends-channels-tvs-politics-today%2F&tbnid=A3fsOLSOoC767M&vet=12ahUKEwj53fTn-dX8AhVsnycCHe2iDLsQMygEegUIARDkAQ..i&docid=b-rRXkQv3OcnfM&w=1280&h=720&q=channels%20news&ved=2ahUKEwj53fTn-dX8AhVsnycCHe2iDLsQMygEegUIARDkAQ",
     "facebook":"wwww.facebook.com/channelstv/",
     "twitter":"www.twitter.com/channelstv/",
     "youtube":"https://www.youtube.com/user/channelsweb",
     "website":"https://channelstv.com/",
     "category":"News"  
+  },
+
+"2":{
+    "id":"3",
+    "name":"TVC news",
+    "description":"Nigerian News",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674155303/ei/x0DJY8zpFrGVxN8PqYWSuAs/ip/160.152.133.196/id/PYW4EApf9Gc.1/source/yt_live_broadcast/requiressl/yes/tx/24438930/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJlSwgBW3ndDItITHJjAyE7L79-VAduzWNxOA9fnlST1AiEApHvJwT2emJxLiN5XS2qQ2-XKa6hoKAFBzZ1jSX2cyAY%3D/file/index.m3u8",
+    "thumbnail":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.tvccommunications.tv%2Fwp-content%2Fuploads%2F2019%2F05%2FTVC-NEWS-logo.png%3Ffit%3D884%252C300%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.tvccommunications.tv%2Ftvc-news-logo%2F&tbnid=bZsScZ0WMEjTtM&vet=12ahUKEwjs5PO-hdb8AhWLhCcCHQMeDSAQMygAegUIARDLAQ..i&docid=e1yIEwowwiQ6WM&w=884&h=300&q=tvc%20news%20logo&ved=2ahUKEwjs5PO-hdb8AhWLhCcCHQMeDSAQMygAegUIARDLAQ",
+    "facebook":"wwww.facebook.com/tvcnewsng/",
+    "twitter":"www.twitter.com/tvcnewsng/",
+    "youtube":"https://www.youtube.com/watch?v=w_Ma8oQLmSM/",
+    "website":"https://tvcnews.tv/",
+    "category":"News"  
+  },
+
+  "3":{
+    "id":"4",
+    "name":"Free 24/7 Billiard Channel",
+    "description":"Snooker Channel",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674196707/ei/g-LJY4DPJ9myvdIPrrW-gA4/ip/160.152.56.123/id/0rUKGkVpIBE.1/source/yt_live_broadcast/requiressl/yes/tx/24435509/txs/24435507%2C24435508%2C24435509/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOhifMtkWsYFCxtTB9vW5mtdwUMKsBEoTUeQ4jOoRS8eAiEAzjj5FNU9kXCXqX94iEbNcyKhMaUfuVSSSbYt_DCntn4%3D/file/index.m3u8",
+    "thumbnail":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fnine-ball-logo&psig=AOvVaw0iGjwyYCPRQPyiD2MKef7v&ust=1674300978831000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCGjqqH1vwCFQAAAAAdAAAAABAE",
+    "facebook":"wwww.facebook.com",
+    "twitter":"https://twitter.com/worldbilliards?lang=en",
+    "youtube":"https://https://www.youtube.com/watch?v=0rUKGkVpIBE",
+    "website":"https://google.com/",
+    "category":"Sports"  
   }
-  
+
 }
-
-  
-
-  
-
-  
-
