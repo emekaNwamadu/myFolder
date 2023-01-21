@@ -17,7 +17,7 @@
     "id":"2",
     "name":"Channels news",
     "description":"Nigerian News",
-    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674253144/ei/-L7KY9ObGMvGW5KUsTg/ip/169.159.110.15/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKFlAnzzmjL6xAQDHCpgyqVTUOfvDfroyiLmOuo8zcsdAiAnFwMhg3-LPuW976A5zfdC3_FP0J3WkJJKALk4qHZzRQ%3D%3D/file/index.m3u8",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/dash/expire/1674318894/ei/zr_LY_m0J9-IvdIPlLOS2As/ip/169.159.93.26/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAORRwjA1nwSyNOS1A_c_KuOe1Q-b35J81h9KiWbjQOFgAiAoARLUX58wU5a4UC6ceySXcT7THbRDICoZFya3fcHTrw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674318894/ei/zr_LY_m0J9-IvdIPlLOS2As/ip/169.159.93.26/id/-c8LoR84Xjs.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHQypsT6Zp2Y88qzfWD8agIIBee5yBXk1kYTjkzjoF_MCIQDpI91AXxrVm_GJlN6PMfh-GbdRQxhu4cza_FUj47wGNg%3D%3D/file/index.m3u8",
     "thumbnail":"https://guardian.ng/wp-content/uploads/2018/12/Channels-TV.jpg", 
     "facebook":"wwww.facebook.com/channelstv/",
     "twitter":"www.twitter.com/channelstv/",
@@ -30,7 +30,7 @@
     "id":"3",
     "name":"TVC news",
     "description":"Nigerian News",
-    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674253702/ei/JsHKY56kLMGoWamLsNgL/ip/169.159.110.15/id/GxpV_1A3edk.1/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXcIat7DQ2YJItsv_kkoUQfRwnS5tnTRaVh_1du8Oxl8CIDUtvuyRRECxnKQbbjwviCIDphu-H9M-d7zBdhVaJlqg/file/index.m3u8", 
+    "live_url":"https://manifest.googlevideo.com/api/manifest/dash/expire/1674319659/ei/ysLLY-ucOdjTxN8PmIuMmAM/ip/169.159.93.26/id/QUE9cGRhnBk.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDegcHP04vqvwzNoCKPRXDwAr7sgqzJ_cCDTG-afvVM4CIQDbz1a6yV71-6pGkWcDhoqHE7Q_a4KHnc9MFpcDyY2Npw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674319659/ei/ysLLY-ucOdjTxN8PmIuMmAM/ip/169.159.93.26/id/QUE9cGRhnBk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWwy3lfB_wgu0xe21KxnHfsYC7mOU9wkgrZTQ2auQP8cCIQCYh2YYoCT7X7Ud2DXlBpEBdMV5CGQ66SSeWt9rdbvD_Q%3D%3D/file/index.m3u8",
     "thumbnail":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.tvccommunications.tv%2Fwp-content%2Fuploads%2F2019%2F05%2FTVC-NEWS-logo.png%3Ffit%3D884%252C300%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.tvccommunications.tv%2Ftvc-news-logo%2F&tbnid=bZsScZ0WMEjTtM&vet=12ahUKEwjs5PO-hdb8AhWLhCcCHQMeDSAQMygAegUIARDLAQ..i&docid=e1yIEwowwiQ6WM&w=884&h=300&q=tvc%20news%20logo&ved=2ahUKEwjs5PO-hdb8AhWLhCcCHQMeDSAQMygAegUIARDLAQ",
     "facebook":"wwww.facebook.com/tvcnewsng/",
     "twitter":"www.twitter.com/tvcnewsng/",
@@ -43,12 +43,26 @@
     "id":"4",
     "name":"Free 24/7 Billiard Channel",
     "description":"Snooker Channel",
-    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674254299/ei/e8PKY9vtA8G2WrPkqBA/ip/169.159.110.15/id/0rUKGkVpIBE.1/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXSLy1jXdBQFcpMN_SBrs2E1sy6OIWEbIeDgIG7CI8_wCIQD2-Po1AlBJYu65G2QQ2NluxFpjbC5OGl-NOhP6rxQq7g%3D%3D/file/index.m3u8",   "thumbnail":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fnine-ball-logo&psig=AOvVaw0iGjwyYCPRQPyiD2MKef7v&ust=1674300978831000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCGjqqH1vwCFQAAAAAdAAAAABAE",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674254299/ei/e8PKY9vtA8G2WrPkqBA/ip/169.159.110.15/id/0rUKGkVpIBE.1/source/yt_live_broadcast/requiressl/yes/tx/24438929/txs/24438928%2C24438929%2C24438930%2C24438931%2C24438932%2C24438933%2C24438934/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXSLy1jXdBQFcpMN_SBrs2E1sy6OIWEbIeDgIG7CI8_wCIQD2-Po1AlBJYu65G2QQ2NluxFpjbC5OGl-NOhP6rxQq7g%3D%3D/file/index.m3u8", 
+    "thumbnail":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fnine-ball-logo&psig=AOvVaw0iGjwyYCPRQPyiD2MKef7v&ust=1674300978831000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCGjqqH1vwCFQAAAAAdAAAAABAE",
     "facebook":"wwww.facebook.com",
     "twitter":"https://twitter.com/worldbilliards?lang=en",
     "youtube":"https://https://www.youtube.com/watch?v=0rUKGkVpIBE",
     "website":"https://google.com/",
     "category":"Sports"  
+  },
+    
+    "4":{
+    "id":"5",
+    "name":"SilverBird Tv",
+    "description":"Silverbird Television's main objective is to provide its audience with quality and wholesome family entertainment, leveraging our wide array of local and internationally syndicated shows and live programs in a unique 24-hour broadcast format.",
+    "live_url":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674317870/ei/zrvLY4e3J4XIWLqurbAM/ip/169.159.93.26/id/UHXquNt_W9U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALDpB_ZsTm_rs0IKKWhMruHAUO7HTHGD2SBq57x7q27OAiEAup0ug8rtfBDU3VZXs0pOuugSx7vs0G_H0SuproUcm8o%3D/file/index.m3u8",
+    "thumbnail":"https://pbs.twimg.com/media/EQl10kmXkAAtKih.jpg",
+    "facebook":"wwww.facebook.com",
+    "twitter":"https://twitter.com/worldbilliards?lang=en",
+    "youtube":"https://https://www.youtube.com/watch?v=0rUKGkVpIBE",
+    "website":"https://google.com/",
+    "category":"News"  
   }
 
 }
